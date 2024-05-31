@@ -1,2 +1,1 @@
-# DSA_Basics
-This repo introduces DSA topics from scratch.
+1. Bubble Sort -> https://github.com/ristyagi/DSA_Basics/blob/main/Sorting/1_Bubble_Sort.py
